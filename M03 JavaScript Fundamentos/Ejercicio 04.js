@@ -30,16 +30,25 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
    // Redondea "num" al entero más próximo y retórnalo.
    // Tu código:
+   var entero;
+   entero = Math.round(num);
+   return entero;
 }
 
 function redondearHaciaArriba(num) {
    // Redondea "num" hacia arriba y retórnalo.
    // Tu código:
+   var entero;
+   entero = Math.ceil(num);
+   return entero;
 }
 
 function numeroRandom() {
    // Genera un número al azar entre 0 y 1 y retórnalo.
    // Tu código:
+   var num;
+   num = Math.random();
+   return num;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
