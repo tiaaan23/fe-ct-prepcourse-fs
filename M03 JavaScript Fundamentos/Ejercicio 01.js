@@ -2,10 +2,10 @@
 /*1️⃣ EJERCICIO 01 1️⃣*/
 
 // Crea una variable de tipo string.
-const nuevoString = "Sebastian Pallares Dussan";
+const nuevoString = "Sebastian Pallares";
 
 // Crea una variable de tipo number.
-const nuevoNumero = 4;
+const nuevoNumero = 8;
 
 // Crea una variable de tipo boolean.
 const nuevoBoolean = true;
